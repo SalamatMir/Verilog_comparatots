@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/salamat/comparator_B_22_R_19/comparator_B_22_R_19.srcs/sources_1/new/comparator_8_bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comparator_8_bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/salamat/comparator_B_22_R_19/comparator_B_22_R_19.srcs/sources_1/new/comparator_4_bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comparator_4_bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/salamat/comparator_B_22_R_19/comparator_B_22_R_19.srcs/sources_1/new/comparator_2_bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comparator_2_bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/salamat/comparator_B_22_R_19/comparator_B_22_R_19.srcs/sim_1/new/comparator_4_bit_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comparator_4_bit_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/salamat/comparator_B_22_R_19/comparator_B_22_R_19.srcs/sim_1/new/comparataor_2_bit_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comprator_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/salamat/comparator_B_22_R_19/comparator_B_22_R_19.srcs/sim_1/new/comparator_8_biit_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comparator_8_biit_tb

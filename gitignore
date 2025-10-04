@@ -1,0 +1,17 @@
+# Ignore Vivado build and temp files
+*.log
+*.jou
+*.str
+*.dmp
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.Xil/
+*.sim/
+*.srcs/
+*.webtalk/
+*.gen/
+*.ltx
+*.wdb
+
